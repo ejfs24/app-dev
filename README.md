@@ -2,5 +2,5 @@
 My first repository
 
 ## My Favorite Series
-2gether The Series
-7 Sundays
+1. 2gether The Series
+2. 7 Sundays
